@@ -1,8 +1,13 @@
 # Alan Galavis
 
----
-
-
+## 📜・Skills
+### Application Development
+- Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
+- C++
+### Web technologies
+- HTML, CSS
+- SQLServer
+- MongoDB
 <!--
 **alanegd/alanegd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
