@@ -3,7 +3,7 @@
 ## 🔧 My skills 
 ### Application Development
 <img height="18" width="18" src="https://skillicons.dev/icons?i=python" />・Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
-<img height="18" width="18" src="https://skillicons.dev/icons?i=c++" />・C++
+<img height="18" width="18" src="https://skillicons.dev/icons?i=cpp" />・C++
 ### Web Development
 #### Frontend Development
 <img height="18" width="18" src="https://skillicons.dev/icons?i=html5, css, javascript" />・HTML5, CSS, Javascript
