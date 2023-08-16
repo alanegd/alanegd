@@ -1,4 +1,4 @@
-:# Alan Galavis:
+# Alan Galavis
 
 ---
 
