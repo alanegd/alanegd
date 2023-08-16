@@ -2,18 +2,18 @@
 
 ## 🔧 My skills 
 ### Application Development
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=python" /> Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
-- C++
+<img height="18" width="18" src="https://skillicons.dev/icons?i=python" />・Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
+<img height="18" width="18" src="https://skillicons.dev/icons?i=c++" />・C++
 ### Web Development
 #### Frontend Development
-- HTML, CSS, Javascript
-- Angular JS (Currently learning)
-- Vue JS (Currently learning)
+<img height="18" width="18" src="https://skillicons.dev/icons?i=html5, css, javascript" />・HTML5, CSS, Javascript
+<img height="18" width="18" src="https://skillicons.dev/icons?i=angular" />・Angular JS (Currently learning)
+<img height="18" width="18" src="https://skillicons.dev/icons?i=vue" />・Vue JS (Currently learning)
 
 #### Backend Development
-- Microsoft SQLServer
-- MongoDB
-- Flask
+<img height="18" width="18" src="https://skillicons.dev/icons?i=mysql" />・Microsoft SQLServer
+<img height="18" width="18" src="https://skillicons.dev/icons?i=mongodb" />MongoDB
+<img height="18" width="18" src="https://skillicons.dev/icons?i=flask" />Flask
 <!--
 **alanegd/alanegd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
