@@ -6,7 +6,9 @@
 <img height="18" width="18" src="https://skillicons.dev/icons?i=cpp" />・C++
 ### Web Development
 #### Frontend Development
-<img height="54" width="54" src="https://skillicons.dev/icons?i=html,css,js" />・HTML5, CSS, Javascript
+<img height="18" width="18" src="https://skillicons.dev/icons?i=html" />・HTML5
+<img height="18" width="18" src="https://skillicons.dev/icons?i=css" />・CSS
+<img height="18" width="18" src="https://skillicons.dev/icons?i=js" />・Javascript
 <img height="18" width="18" src="https://skillicons.dev/icons?i=angular" />・Angular JS (Currently learning)
 <img height="18" width="18" src="https://skillicons.dev/icons?i=vue" />・Vue JS (Currently learning)
 
