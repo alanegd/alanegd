@@ -4,10 +4,18 @@
 ### Application Development
 - Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
 - C++
-### Web technologies
-- HTML, CSS
-- SQLServer
+### Web Development
+#### Frontend Development
+- HTML
+- CSS
+- Javascript
+- Angular JS (Currently learning)
+- Vue JS (Currently learning)
+
+#### Backend Development
+- Microsoft SQLServer
 - MongoDB
+- Flask
 <!--
 **alanegd/alanegd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
