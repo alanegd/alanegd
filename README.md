@@ -1,6 +1,6 @@
 # Alan Galavis
 
-## 📜・My skills
+## 🔧 My skills 
 ### Application Development
 - Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
 - C++
