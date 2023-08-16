@@ -2,7 +2,7 @@
 
 ## 🔧 My skills 
 ### Application Development
-- Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=python" /> Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
 - C++
 ### Web Development
 #### Frontend Development
