@@ -6,9 +6,7 @@
 - C++
 ### Web Development
 #### Frontend Development
-- HTML
-- CSS
-- Javascript
+- HTML, CSS, Javascript
 - Angular JS (Currently learning)
 - Vue JS (Currently learning)
 
@@ -27,6 +25,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
