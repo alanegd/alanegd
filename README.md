@@ -7,8 +7,8 @@
 ### Web Development
 #### Frontend Development
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=html" /> HTML5, <img height="18" width="18" src="https://skillicons.dev/icons?i=css" /> CSS, <img height="18" width="18" src="https://skillicons.dev/icons?i=js" /> JavaScript
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=angular" /> Angular JS (Currently learning)
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=vue" /> Vue JS (Currently learning)
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=angular" /> Angular (Currently learning)
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=vue" /> Vue (Currently learning)
 
 #### Backend Development
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" /> Microsoft SQLServer
