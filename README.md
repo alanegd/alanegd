@@ -1,19 +1,24 @@
 # Alan Galavis
 
 ## 🔧 My skills 
-### Application Development
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=python" /> Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
+### Programming languages
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=cpp" /> C++
-### Web Development
-#### Frontend Development
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=html" /> HTML5, <img height="18" width="18" src="https://skillicons.dev/icons?i=css" /> CSS, <img height="18" width="18" src="https://skillicons.dev/icons?i=js" /> JavaScript
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=angular" /> Angular (Currently learning)
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=vue" /> Vue (Currently learning)
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=python" /> Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
 
-#### Backend Development
+### Frontend Development
+#### Languages and Technologies
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=css" /> CSS, <img height="18" width="18" src="https://skillicons.dev/icons?i=html" /> HTML5, <img height="18" width="18" src="https://skillicons.dev/icons?i=js" /> JavaScript
+#### Frameworks and Libraries
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=angular" /> Angular, <img height="18" width="18" src="https://skillicons.dev/icons?i=vue" /> Vue, <img height="18" width="18" src="https://skillicons.dev/icons?i=gatsby" /> Gatsby (Currently learning)
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=tailwind" /> Tailwind
+
+### Backend Development 
+#### Frameworks and Libraries
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=flask" /> Flask, <img height="18" width="18" src="https://skillicons.dev/icons?i=dotnet" /> .NET
+#### Database Management Systems
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" /> Microsoft SQLServer
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=flask" /> Flask
+
 <!--
 **alanegd/alanegd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
