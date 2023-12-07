@@ -1,9 +1,10 @@
 # Alan Galavis
 
-## 🔧 My skills 
+## 🔧 Technologies I've worked with
 ### Programming languages
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=cpp" /> C++
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=cs" /> C#, <img height="18" width="18" src="https://skillicons.dev/icons?i=cpp" /> C++, <img height="18" width="18" src="https://skillicons.dev/icons?i=java" /> Java
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=python" /> Python ([Coursera/University of Michigan Certified](https://www.coursera.org/account/accomplishments/specialization/certificate/89GEQ6MFQ39Q))
+
 
 ### Frontend Development
 #### Languages and Technologies
@@ -14,7 +15,7 @@
 
 ### Backend Development 
 #### Frameworks and Libraries
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=flask" /> Flask, <img height="18" width="18" src="https://skillicons.dev/icons?i=dotnet" /> .NET
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=flask" /> Flask, <img height="18" width="18" src="https://skillicons.dev/icons?i=dotnet" /> .NET <img height="18" width="18" src="https://skillicons.dev/icons?i=spring" /> Spring Boot
 #### Database Management Systems
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" /> Microsoft SQLServer
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
