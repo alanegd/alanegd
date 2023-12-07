@@ -15,7 +15,7 @@
 
 ### Backend Development 
 #### Frameworks and Libraries
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=flask" /> Flask, <img height="18" width="18" src="https://skillicons.dev/icons?i=dotnet" /> .NET <img height="18" width="18" src="https://skillicons.dev/icons?i=spring" />, Spring Boot
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=flask" /> Flask, <img height="18" width="18" src="https://skillicons.dev/icons?i=dotnet" /> .NET, <img height="18" width="18" src="https://skillicons.dev/icons?i=spring" /> Spring Boot
 #### Database Management Systems
 - <img height="18" width="18" src="https://user-images.githubusercontent.com/4249331/52232852-e2c4f780-28bd-11e9-835d-1e3cf3e43888.png" /> Microsoft SQLServer
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=mongodb" /> MongoDB
