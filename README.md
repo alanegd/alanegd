@@ -10,7 +10,7 @@
 #### Languages and Technologies
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=css" /> CSS, <img height="18" width="18" src="https://skillicons.dev/icons?i=html" /> HTML5, <img height="18" width="18" src="https://skillicons.dev/icons?i=js" /> JavaScript
 #### Frameworks and Libraries
-- <img height="18" width="18" src="https://skillicons.dev/icons?i=angular" /> Angular, <img height="18" width="18" src="https://skillicons.dev/icons?i=vue" /> Vue, <img height="18" width="18" src="https://skillicons.dev/icons?i=gatsby" /> Gatsby (Currently learning)
+- <img height="18" width="18" src="https://skillicons.dev/icons?i=angular" /> Angular, <img height="18" width="18" src="https://skillicons.dev/icons?i=vue" /> Vue, <img height="18" width="18" src="https://skillicons.dev/icons?i=gatsby" /> Gatsby
 - <img height="18" width="18" src="https://skillicons.dev/icons?i=tailwind" /> Tailwind
 
 ### Backend Development 
